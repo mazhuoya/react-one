@@ -8,3 +8,5 @@
 [/src/styleReactPrinciple] 文件里存放的是 react 中底层原理入门(具体内容如下)
 ## setStateStyle
 [/components/setStateStyle] 文件里存放的是 setState 异步
+## jsxStyle
+[/components/jsxStyle] 文件里存放的是 jsx 语法的转化过程
